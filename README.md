@@ -32,10 +32,10 @@ Ask your question, get a fun answer. Simple!
 ---
 
 ### 🪪 License
-MIT — Use it freely. Credit appreciated but not required. ❤️
+MIT — Use it freely. Credit appreciated. ❤️
 
 ---
 
-### 🧑‍💻 Made by [@YourUsername](https://github.com/YourUsername)
+### 🧑‍💻 Made by [@thetalhachy](https://github.com/thetalhachy)
 
 > PRs welcome. Let’s make tech more understandable together!
