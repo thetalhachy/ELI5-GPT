@@ -1,25 +1,41 @@
-# ELI5 GPT 🤖👶
+## 🧠 ELI5 GPT
 
-Explain anything like you're 5 years old.  
-Uses AI to break down complex questions into fun, simple stories or analogies.
+> Explain anything like you're 5.
 
-## Features
-- Simple and Story modes
-- English & Bangla language support
-- Lightweight, open-source, and fast
-
-## Demo
-[Your live site link or video here]
-
-## Getting Started
-1. Clone this repo
-2. Install dependencies
-3. Add your `.env` with `API_KEY`
-4. Run with `npm run dev`
-
-## License
-MIT – Free to use, modify, and share! (Don't forget to remember my name!)
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=435&lines=Explain+anything+like+you%27re+5.;Fun+%26+simple+GPT+answers.;For+kids%2C+students%2C+and+the+curious+ones.)
 
 ---
 
-Built with ❤️ by [Talha]
+### 🚀 Features
+- 🧒 Explains any concept like you're 5
+- 🌍 Supports English & Bangla
+- 📜 Story mode & Simple mode
+- ⚡ Powered by free & open AI models
+
+---
+
+### 🛠️ Usage
+```bash
+npm install
+npm run dev
+```
+
+Visit: `localhost:3000`
+
+Ask your question, get a fun answer. Simple!
+
+---
+
+### 📸 Preview
+![preview](https://github.com/YOUR_USERNAME/eli5-gpt/assets/example.gif)
+
+---
+
+### 🪪 License
+MIT — Use it freely. Credit appreciated but not required. ❤️
+
+---
+
+### 🧑‍💻 Made by [@YourUsername](https://github.com/YourUsername)
+
+> PRs welcome. Let’s make tech more understandable together!
