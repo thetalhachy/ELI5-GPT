@@ -1,16 +1,25 @@
-# 🧠 ELI5 GPT — Explain Like I'm 5
+# ELI5 GPT 🤖👶
 
-A fun, kid-friendly AI explainer that turns hard questions into simple stories and analogies. Powered by AI. Made for curious minds.
+Explain anything like you're 5 years old.  
+Uses AI to break down complex questions into fun, simple stories or analogies.
 
-<br/>
+## Features
+- Simple and Story modes
+- English & Bangla language support
+- Lightweight, open-source, and fast
 
-## ✨ Features
-- 🐣 ELI5-style explanations
-- 🌍 Supports English & Bangla
-- 🎨 Story or simple mode
-- ⚡ Clean, fast, minimal UI
+## Demo
+[Your live site link or video here]
 
-<br/>
+## Getting Started
+1. Clone this repo
+2. Install dependencies
+3. Add your `.env` with `API_KEY`
+4. Run with `npm run dev`
 
-## 🚀 How it Works
-Ask anything like:
+## License
+MIT – Free to use, modify, and share! (Don't forget to remember my name!)
+
+---
+
+Built with ❤️ by [Talha]
