@@ -27,7 +27,7 @@ Ask your question, get a fun answer. Simple!
 ---
 
 ### 📸 Preview
-![preview](https://github.com/YOUR_USERNAME/eli5-gpt/assets/example.gif)
+Check Project folder for screenshots and user manual
 
 ---
 
